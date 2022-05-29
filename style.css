@@ -35,6 +35,7 @@ main
     background-color: white;
     margin: auto;
     padding: 20px;
+    width: 100vw;
 }
 
 h1
